@@ -1,7 +1,6 @@
 # Pink Eyes
 
-A parody of Shinigami Eyes: it colours some X/Twitter display names pink. The
-pink doesn't mean anything — that's the joke.
+A parody of Shinigami Eyes: it colours some X/Twitter display names pink. 
 
 For **Firefox** (desktop: macOS, Windows, or Linux), version 140 or newer.
 
