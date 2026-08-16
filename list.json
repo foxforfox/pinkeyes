@@ -1,0 +1,18 @@
+{
+  "version": 3,
+  "updated": "2026-08-16",
+  "hash": {
+    "salt": "ff0b6cfd925eb9aebb8fb2dff3dd262ecc97aea2b98926be",
+    "iterations": 50000,
+    "tagBytes": 6
+  },
+  "tags": [
+    "0ed07959ba48",
+    "7c81989abd40",
+    "82146e3e649e",
+    "a990f5ce1737",
+    "abb664da6db6",
+    "b8c97702f225"
+  ],
+  "notes": {}
+}
