@@ -4,7 +4,7 @@
       "updates": [
         {
           "version": "1.0.2",
-          "update_link": "https://addons.mozilla.org/firefox/downloads/file/4961431/pinkeyes-1.0.2.xpi",
+          "update_link": "https://raw.githubusercontent.com/foxforfox/pinkeyes/refs/heads/main/pinkeyes-1.0.2.xpi",
           "applications": {
             "gecko": {
               "strict_min_version": "140.0"
