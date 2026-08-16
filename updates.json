@@ -3,8 +3,8 @@
     "pink-eyes@foxforfox": {
       "updates": [
         {
-          "version": "1.0.2",
-          "update_link": "https://raw.githubusercontent.com/foxforfox/pinkeyes/refs/heads/main/pinkeyes-1.0.2.xpi",
+          "version": "1.1.0",
+          "update_link": "https://raw.githubusercontent.com/foxforfox/pinkeyes/refs/heads/main/pinkeyes-1.1.0.xpi",
           "applications": {
             "gecko": {
               "strict_min_version": "140.0"
